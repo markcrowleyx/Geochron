@@ -1,3 +1,6 @@
+/* Google fonts import*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Rokkitt:wght@100;200;300;400;500;600&display=swap');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -12,6 +15,8 @@ body {
     flex-direction: column;
     /* Generic website styles */
     color: black;
+    font-family: 'Roboto', 'Rokkitt';
+    
 }
 
 /* Header */
