@@ -15,8 +15,8 @@ body {
     flex-direction: column;
     /* Generic website styles */
     color: black;
-    font-family: 'Roboto', 'Rokkitt';
-    
+    font-family: 'Roboto', sans-serif;
+
 }
 
 /* Header */
@@ -24,6 +24,9 @@ header {
     background-color: lightcoral;
 }
 
+h1 {
+    font-family: 'Rokkitt', serif;
+}
 /* Main Content */
 main {
     background-color: lightblue;
