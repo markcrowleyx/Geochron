@@ -93,12 +93,22 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: orange;
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
 
+/* Social networks icons */
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+}
 /* Media query tablets and larger */
-@media screen and (m-width: 768px) {
+@media screen and (min-width: 768px) {
 
     /* Header */
     nav {
@@ -123,7 +133,7 @@ footer {
 
     #logo {
         font-size: 280%;
-        line-height: 7px;
+        line-height: 75px;
         margin: 0 0.5rem;
     }
 
