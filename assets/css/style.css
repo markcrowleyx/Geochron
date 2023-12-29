@@ -85,10 +85,17 @@ nav {
 
 /* Main Content */
 main {
-  background-color: lightblue;
-  /* make main take up space and push footer down */
+    /* make main take up space and push footer down */
   flex: 1 auto;
-  margin-top: 80px;
+  margin-top: 76.67px;
+}
+
+/* Hero section styles */
+
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/Digital\ elevation\ model\ of\ a\ quarry\ in\ Ireland_1\ \(1\).png") no-repeat center center/cover;
 }
 
 /* Footer */
