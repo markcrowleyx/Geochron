@@ -38,9 +38,9 @@ shields.io badges
   * Languages Used
   * Frameworks, Libraries & Programs Used
 
-* Deployment & Local Development
-  * Deployment
-  * Local Development
+* [Deployment](#deployment)
+  * [This Project](#this-project)
+    * Local Development
     * How to Fork
     * How to Clone
 
@@ -106,3 +106,25 @@ shields.io badges
 * I want to see the results of My Survey included in the Map.
 
 ---
+
+## Deployment
+
+---
+
+### This project
+
+* This site was deployed  using the following steps:
+
+1. Open GitHub.
+2. Select the project to be deployed.
+3. Go to 'Settings'.
+4. In the **Code and Automation** section, select **Pages**.
+5. Set **Source** to 'Deploy from a branch'.  
+6. Select **Main Branch**.
+7. Set **Folder** to 'Root'.
+8. Under **Branch** click 'Save'
+9. The link to the live website is now displayed at the top of the page.
+
+
+
+
