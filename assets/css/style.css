@@ -18,6 +18,13 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: "Rokkitt", serif;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    color: #252525;
+}
+
 /* Header */
 header {
   background-color: #ffffff;
@@ -34,13 +41,6 @@ header {
 header a {
   text-decoration: none;
   color: inherit;
-}
-
-h1 {
-  font-family: "Rokkitt", serif;
-  text-transform: uppercase;
-  letter-spacing: 0;
-  color: #252525;
 }
 
 #menu {
@@ -91,11 +91,26 @@ main {
 }
 
 /* Hero section styles */
-
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/Digital\ elevation\ model\ of\ a\ quarry\ in\ Ireland_1\ \(1\).png") no-repeat center center/cover;
+    background: url("../images/Orthorectified\ photomosaic\ of\ a\ quarry\ in\ Ireland\ from\ UAV\ aerial\ images\ \(1\).png") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: rgba(39, 245, 70, 0.427);
+    font-size: 120%;
+    position: absolute;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 20px;
+    padding-left: 10px;
+    bottom: 40px;
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color: #ffffff;
 }
 
 /* Footer */
@@ -146,6 +161,13 @@ main {
   main {
     /* push main content down to accomodate larger header */
     margin-top: 75px;
+  }
+
+  /* Hero */
+  #cover-text {
+    width: 300px;
+    right: 20px;
+    bottom: 80px;
   }
 }
 
