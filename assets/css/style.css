@@ -21,7 +21,7 @@ body {
 h1, h2, h3 {
     font-family: "Rokkitt", serif;
     text-transform: uppercase;
-    letter-spacing: 0;
+    letter-spacing: 2px;
     color: #252525;
 }
 
@@ -57,7 +57,7 @@ header a {
   border-bottom: 1px solid #3a3a3a;
 }
 
-/* Navbar stys with dropdown toggle */
+/* Navbar styles with dropdown toggle */
 
 nav {
   position: absolute;
@@ -67,7 +67,7 @@ nav {
   padding: 0 1rem;
   box-shadow: 0 2px 2px #3a3a3a;
   display: none;
-  top: 1%;
+  top: 100%;
 }
 
 /* Nav toggle */
@@ -152,7 +152,7 @@ main {
   }
 
   #logo {
-    font-size: 280%;
+    font-size: 180%;
     line-height: 75px;
     margin: 0 0.5rem;
   }
@@ -167,7 +167,7 @@ main {
   #cover-text {
     width: 300px;
     right: 20px;
-    bottom: 80px;
+    bottom: 180px;
   }
 }
 
@@ -176,4 +176,15 @@ main {
   #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
   }
+  #logo {
+    font-size: 280%;
+  }
+
+  #cover-text {
+    width: 300px;
+    right: 20px;
+    bottom: 80px;
+  }
+
+
 }
