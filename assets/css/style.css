@@ -116,6 +116,32 @@ main {
     color: #ffffff;
 }
 
+/* About section */
+#about {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#about h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+    }
+
+#history > div, #services > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#company p {
+    padding: 0 20px;
+}
+
+#company hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+    
 /* Footer */
 #social-networks {
     text-align: center;
