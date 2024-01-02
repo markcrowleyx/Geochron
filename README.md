@@ -125,6 +125,3 @@ shields.io badges
 8. Under **Branch** click 'Save'
 9. The link to the live website is now displayed at the top of the page.
 
-
-
-
