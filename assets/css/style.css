@@ -159,7 +159,26 @@ main {
     padding-left: 10px;
     bottom: 40px;
 }
-    
+
+#three-d {
+    background: url("../images/Digital\ elevation\ model\ of\ a\ quarry\ in\ Ireland_1\ \(1\).png") no-repeat center/cover;
+    display: flex;
+    height: 600px;
+    width: 100%;
+    position: relative;
+    }
+
+#three-d div {
+    background-color: rgba(39, 245, 70, 0.708);
+        font-size: 100%;
+        position: absolute;
+        width: 80%;
+        min-height: 150px;
+        padding: 10px;
+        bottom: 40px;
+        color: black;
+       }
+
 /* Footer */
 #social-networks {
     text-align: center;
