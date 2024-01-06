@@ -200,6 +200,15 @@ main {
     color: #3a3a3a;
 }
 
+/* Media query landscape phones (576px and larger) */
+@media screen and (min-width: 576px) {
+    #uav-images {
+        column-count: 2;
+        column-gap: 0;
+    }
+
+}
+
 /* Media query tablets and larger */
 @media screen and (min-width: 768px) {
 
