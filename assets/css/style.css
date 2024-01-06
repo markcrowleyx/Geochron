@@ -251,6 +251,11 @@ main {
         right: 20px;
         bottom: 180px;
     }
+
+    /* Gallery */
+    #uav-images {
+        column-count: 3;
+    }
 }
 
 /* Large devices Laptops and desktops, 992px and larger */
@@ -269,5 +274,8 @@ main {
         bottom: 80px;
     }
 
-
+/* Gallery */
+    #uav-images {
+        column-count: 4;
+    }
 }
