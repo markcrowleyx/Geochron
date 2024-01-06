@@ -126,9 +126,10 @@ main {
     margin-bottom: 20px;
     text-align: center;
     font-size: 180%;
-    }
+}
 
-#history > div, #services > div {
+#history>div,
+#services>div {
     line-height: 20px;
     margin-bottom: 20px;
 }
@@ -147,7 +148,7 @@ main {
     height: 600;
     width: 100%;
     padding: 0 20px;
-    }
+}
 
 #services-cover-text {
     background-color: rgba(39, 245, 70, 0.427);
@@ -166,19 +167,23 @@ main {
     height: 600px;
     width: 100%;
     position: relative;
-    }
+}
 
 #three-d div {
     background-color: rgba(39, 245, 70, 0.708);
-        font-size: 100%;
-        position: absolute;
-        width: 80%;
-        min-height: 150px;
-        padding: 10px;
-        bottom: 40px;
-        color: black;
-       }
+    font-size: 100%;
+    position: absolute;
+    width: 80%;
+    min-height: 150px;
+    padding: 10px;
+    bottom: 40px;
+    color: black;
+}
 
+/* Gallery page */
+#uav-images img {
+    width: 100%;
+}
 /* Footer */
 #social-networks {
     text-align: center;
@@ -197,6 +202,7 @@ main {
 
 /* Media query tablets and larger */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
