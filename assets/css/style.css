@@ -184,6 +184,46 @@ main {
 #uav-images img {
     width: 100%;
 }
+
+/* Case-Studies page */
+#case-studies {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#case-studies h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 180%;
+}
+
+#project {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#details h4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#datasets > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#details > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#details p {
+    padding: 0 20px;
+}
+
+#details hr {
+    border-top: 1px solid black;
+}
 /* Footer */
 #social-networks {
     text-align: center;
