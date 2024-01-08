@@ -232,6 +232,13 @@ main {
 }
 .map > img {
     width: 100%;
+    margin-top: 20px;
+}
+.map > p {
+    width: 100%;
+    font-style: italic;
+    padding: 0 0 !important;
+    text-decoration: underline;
 }
 
 /* Footer */
