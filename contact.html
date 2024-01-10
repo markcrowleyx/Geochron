@@ -57,7 +57,54 @@
     </header>
 
     <!-- Main content-->
-    <main>Main Content</main>
+    <main>
+      <!-- Contact form -->
+      <section id="contact">
+        <form action="confirmation-page.html" id="contact-form" method="get">
+          <h2>Request Contact</h2>
+          <label for="f-name">First Name</label>
+          <input type="text" name="f-name" id="f-name" placeholder="First Name" required>
+          <br>
+          <label for="l-name">Last Name</label>
+          <input type="text" name="l-name" id="l-name" placeholder="Last Name" required>
+          <br>
+          <label for="c-name">Company Name</label>
+          <input type="text" name="c-name" id="c-name" placeholder="Name Of Company" required>
+          <br>
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" placeholder="Email Address" required>
+          <br>
+          <label for="phone">Telephone</label>
+          <input type="text" name="phone" id="phone" placeholder="Contact number" required>
+          <br>
+          <h3>Address</h3>
+          <label for="q-name">Quarry Name</label>
+          <input type="text" name="q-name" id="q-name" placeholder="Name Of Quarry">
+          <br>
+          <label for="town">Town / City</label>
+          <input type="text" name="town" id="town" placeholder="Townland" required>
+          <br>
+          <label for="county">County</label>
+          <input type="text" name="county" id="county" placeholder="County" required>
+          <br>
+          <div class="buttons">
+            <div>
+              <input type="radio" name="info" id="request-info" value="request-info" required checked>
+              <label for="request-info">Request more information</label>
+            </div>
+            <div>
+              <input type="radio" name="info" id="request-survey" value="request-survey" required>
+              <label for="request-survey">Request Survey</label>
+            </div>
+            <div>
+              <input type="radio" name="info" id="both" value="both" required>
+              <label for="both">Both</label>
+            </div>
+          </div>
+          <button type="submit" class="send">Send Request</button>
+        </form>
+      </section>
+    </main>
 
     <!-- Footer -->
     <footer>
