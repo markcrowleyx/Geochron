@@ -90,8 +90,24 @@ main {
     /* make main take up space and push footer down */
     flex: 1 auto;
     margin-top: 76.67px;
+    display: flex;
+    flex-direction: column;
 }
 
+/* Form */
+#contact {
+    background-image: url("..images/photomosaic from UAV.webp");
+    background-size: cover;
+    background-position: 50%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#contact-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.5);
+    padding: 30px;
+}
 /* Hero section styles */
 #hero {
     height: 600px;
