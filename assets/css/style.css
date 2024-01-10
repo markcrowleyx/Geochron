@@ -125,7 +125,7 @@ form > input {
     padding: 0 5px;
     }
     
-.buttons {
+.buttons > div > input {
     width: 100%;
     display: flex;
     justify-content: space-between;
