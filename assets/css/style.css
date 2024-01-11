@@ -348,12 +348,15 @@ form>input {
     transform: rotate(45deg);
 }
 
+/* End of check boxes */
+
 .buttons>div>input {
     width: 100%;
     display: flex;
     justify-content: space-between;
 }
 
+/* Submit botton */
 .send {
     padding: 15px 30px;
     border-radius: 2px;
