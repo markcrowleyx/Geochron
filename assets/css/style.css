@@ -246,7 +246,7 @@ main {
 /* Contact page */
 /* Form */
 #contact {
-    background-image: url("..images/photomosaic from UAV.webp");
+    background-image: url("../images/photomosaic from UAV.webp");
     background-size: cover;
     background-position: 50%;
     padding: 20px 10% 0 10%;
@@ -297,7 +297,7 @@ form>input {
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
-    top: 0;
+    top: 76.67px;
     left: 0;
     width: 100%;
     height: 100vh;
