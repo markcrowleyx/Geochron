@@ -293,15 +293,16 @@ form>input {
 /* Confirmation page */
 #thanks {
     background-image: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp");
-    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    position: absolute;
+    position: relative;
     top: 76.67px;
     left: 0;
     width: 100%;
+    height: 600px;
     color: #ffffff;
     text-align: center;
+    display: flex;
 }
 
 /* Footer */
