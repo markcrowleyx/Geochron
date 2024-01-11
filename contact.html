@@ -87,19 +87,20 @@
               <label for="county">County</label>
               <input type="text" name="county" id="county" placeholder="County" required>
               <br>
-              <div class="buttons">
-                <div>
-                  <input type="radio" name="info" id="request-info" value="request-info" required checked>
-                  <label for="request-info">Request more information</label>
-                </div>
-                <div>
-                  <input type="radio" name="info" id="request-survey" value="request-survey" required>
-                  <label for="request-survey">Request Survey</label>
-                </div>
-                <div>
-                  <input type="radio" name="info" id="both" value="both" required>
-                  <label for="both">Both</label>
-                </div>
+              <!-- Create Custom Checkboxes -->
+              <div class="checkboxes">
+                <label class="container">Please send me more information about the Quarry Survey project.
+                  <input type="checkbox" checked="checked">
+                  <span class="checkmark"></span>
+                </label>
+                <label class="container">I would like to have my Quarry surveyed.
+                  <input type="checkbox">
+                  <span class="checkmark"></span>
+                </label>
+                <label class="container">Please send me news about other Geochron projects.
+                  <input type="checkbox">
+                  <span class="checkmark"></span>
+                </label>
               </div>
               <button type="submit" class="send">Send Request</button>
             </form>
