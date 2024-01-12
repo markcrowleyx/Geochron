@@ -492,6 +492,11 @@ form>input {
         color: #f16c6b;
     }
 
+    /* Confirmation page */
+    #thanks-text div {
+        margin-top: 45px;
+    }
+
 }
 
 /* Large devices Laptops and desktops, 992px and larger */
