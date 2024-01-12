@@ -163,6 +163,7 @@ main {
     bottom: 40px;
 }
 
+
 #three-d {
     background: url("../images/Digital\ elevation\ model\ of\ a\ quarry\ in\ Ireland_1\ \(1\).png") no-repeat center/cover;
     display: flex;
@@ -180,6 +181,25 @@ main {
     padding: 10px;
     bottom: 40px;
     color: black;
+}
+
+#images {
+    background: url("../images/Orthorectified\ photomosaic\ of\ a\ quarry\ in\ Ireland\ from\ UAV\ aerial\ images\ \(1\).png") no-repeat center/cover;
+    display: flex;
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+#images div {
+        background-color: rgba(39, 245, 70, 0.708);
+            font-size: 100%;
+            position: absolute;
+            width: 80%;
+            min-height: 150px;
+            padding: 10px;
+            bottom: 40px;
+            color: black;
 }
 
 /* Gallery page */
