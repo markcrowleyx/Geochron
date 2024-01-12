@@ -177,7 +177,7 @@ main {
     font-size: 100%;
     position: absolute;
     width: 80%;
-    min-height: 150px;
+    min-height: 100px;
     padding: 10px;
     bottom: 40px;
     color: black;
@@ -196,7 +196,7 @@ main {
             font-size: 100%;
             position: absolute;
             width: 80%;
-            min-height: 150px;
+            min-height: 100px;
             padding: 10px;
             bottom: 40px;
             color: black;
