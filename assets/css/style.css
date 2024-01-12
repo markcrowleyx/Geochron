@@ -471,6 +471,27 @@ form>input {
     #uav-images {
         column-count: 3;
     }
+
+    /* Request contact section */
+    #contact {
+        background-position: center;
+        position: relative;
+    }
+
+    /* Contact Form */
+    #contact-form{
+        max-width: 600px;
+    }
+
+    form > input:hover {
+        border-color: #f16c6b;
+    }
+
+    .send:hover {
+        background-color: #fafafa;
+        color: #f16c6b;
+    }
+
 }
 
 /* Large devices Laptops and desktops, 992px and larger */
