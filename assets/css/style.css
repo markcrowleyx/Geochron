@@ -208,6 +208,17 @@ main {
     width: 100%;
     position: relative;
 }
+
+#spectrometry div {
+    background-color: rgba(39, 245, 70, 0.708);
+    font-size: 100%;
+    position: absolute;
+    width: 80%;
+    min-height: 100px;
+    padding: 10px;
+    bottom: 40px;
+    color: black;
+}
 /* Gallery page */
 #uav-images img {
     width: 100%;
