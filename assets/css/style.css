@@ -100,7 +100,7 @@ main {
     width: 100%;
     background: url("../images/Drone\ in\ flight\ 1.jpg") no-repeat center center/cover;
     position: relative;
-}
+    }
 
 #cover-text {
     background-color: rgba(39, 245, 70, 0.427);
@@ -165,7 +165,6 @@ main {
 
 #three-d {
     background: url("../images/Digital\ elevation\ model\ of\ a\ quarry\ in\ Ireland_1\ \(1\).png") no-repeat center/cover;
-    display: flex;
     height: 600px;
     width: 100%;
     position: relative;
@@ -184,7 +183,6 @@ main {
 
 #images {
     background: url("../images/Orthorectified\ photomosaic\ of\ a\ quarry\ in\ Ireland\ from\ UAV\ aerial\ images\ \(1\).png") no-repeat center/cover;
-    display: flex;
     height: 600px;
     width: 100%;
     position: relative;
@@ -202,8 +200,7 @@ main {
 }
 
 #spectrometry {
-    background: url("../images/Wicklow\ Quarry\ 2D\ Th\ Map.webp") no-repeat center/cover;
-    display: flex;
+    background: url("../images/Wicklow\ Quarry\ 2D\ gamma\ dose\ rate\ map.webp") no-repeat center/cover;
     height: 600px;
     width: 100%;
     position: relative;
@@ -219,6 +216,7 @@ main {
     bottom: 40px;
     color: black;
 }
+
 /* Gallery page */
 #uav-images img {
     width: 100%;
