@@ -174,14 +174,18 @@ main {
 }
 
 #three-d div {
-    background-color: rgba(5, 136, 25, 0.427);
+    background-color: rgba(2, 55, 10, 0.7);
     font-size: 100%;
     position: absolute;
     width: 80%;
     min-height: 100px;
     padding: 10px;
     bottom: 40px;
-    color: black;
+    color: #ffffff;
+}
+/* Set h2 to white for good readability */
+#three-d div h2{
+    color: #ffffff;
 }
 
 #images {
@@ -192,16 +196,20 @@ main {
 }
 
 #images div {
-    background-color: rgba(5, 136, 25, 0.427);
+    background-color: rgba(2, 55, 10, 0.7);
     font-size: 100%;
     position: absolute;
     width: 80%;
     min-height: 100px;
     padding: 10px;
     bottom: 40px;
-    color: black;
-}
+    color: #ffffff;
+    }
 
+/* Set h2 color to white for good readability */
+#images div h2 {
+    color: #ffffff;
+}
 #spectrometry {
     background: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp") no-repeat center/cover;
     height: 600px;
@@ -210,14 +218,19 @@ main {
 }
 
 #spectrometry div {
-    background-color: rgba(5, 136, 25, 0.427);
+    background-color: rgba(2, 55, 10, 0.8);
     font-size: 100%;
     position: absolute;
     width: 80%;
     min-height: 100px;
     padding: 10px;
     bottom: 40px;
-    color: black;
+    color: #ffffff;
+}
+
+/* Set h2 color to white for good readability */
+#spectrometry div h2 {
+    color: #ffffff;
 }
 
 /* Applications section */
