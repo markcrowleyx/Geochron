@@ -51,9 +51,9 @@ shields.io badges
   - Imagery
   - Wireframes
 
-- Features
-  - General Features on Each Page
-    - Landing Page
+- [Features](#features)
+  - [General Features on Each Page](#general-features-on-each-page)
+    - [Landing Page](#landing-page)
     - Home Page Header
     - About Geochron
     - The Survey Project
@@ -105,6 +105,7 @@ shields.io badges
 - An introduction to Geochron Ltd.
 - Details about the Quarry Survey Project.
 - Map of Ireland showing the surveyed quarries.
+- A list of applications for the project
 - How to participate or take part in the Survey Project.
 - A way to contact Geochron Ltd. and ask questions.
 - Updates.
@@ -138,7 +139,18 @@ shields.io badges
 - I want to see the results of My Survey included in the Map.
 
 ---
+## Features
+---
+### General Features on each page
+#### Landing Page
 
+The Landing Page is divided into four sections:
+- The Hero image
+- About Us section
+- Services
+- Applications
+
+The Services section is further divided into three sections, each with a relevant backround image. 
 ## Deployment
 
 ---
