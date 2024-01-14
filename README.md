@@ -54,9 +54,7 @@ shields.io badges
 - [Features](#features)
   - [General Features on Each Page](#general-features-on-each-page)
     - [Landing Page](#landing-page)
-    - Home Page Header
-    - About Geochron
-    - The Survey Project
+    - [Case Studies Page](#case-studies-page)
     - Maps
     - Photo Gallery
     - Contact Page
@@ -142,8 +140,9 @@ shields.io badges
 ## Features
 ---
 ### General Features on each page
+---
 #### Landing Page
-
+---
 The Landing Page is divided into four sections:
 - The Hero image
 - About Us section
@@ -151,6 +150,13 @@ The Landing Page is divided into four sections:
 - Applications
 
 The Services section is further divided into three sections, each with a relevant backround image. 
+
+#### Case Studies page
+---
+- The case studies page presents information about the project and its funding. 
+- It features a detailed map showing the modelled radon and thoron concentrations in Ireland. The map was made and produced by Dr. Quentin Crowley.
+- A
+
 ## Deployment
 
 ---
