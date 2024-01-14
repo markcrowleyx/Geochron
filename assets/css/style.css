@@ -216,6 +216,12 @@ main {
     color: black;
 }
 
+/* Applications section */
+
+#applications div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
 /* Gallery page */
 #uav-images img {
     width: 100%;
