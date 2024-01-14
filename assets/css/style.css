@@ -113,8 +113,7 @@ main {
     bottom: 40px;
 }
 
-#cover-text>h2,
-#cover-text>h3 {
+#cover-text>h2, #cover-text>h3 {
     color: #ffffff;
 }
 
@@ -153,7 +152,7 @@ main {
 }
 
 #services-cover-text {
-    background-color: rgba(39, 245, 70, 0.427);
+    background-color: rgba(5, 136, 25, 0.427);
     font-size: 120%;
     position: absolute;
     width: 80%;
@@ -171,7 +170,7 @@ main {
 }
 
 #three-d div {
-    background-color: rgba(39, 245, 70, 0.708);
+    background-color: rgba(5, 136, 25, 0.427);
     font-size: 100%;
     position: absolute;
     width: 80%;
@@ -189,7 +188,7 @@ main {
 }
 
 #images div {
-    background-color: rgba(39, 245, 70, 0.708);
+    background-color: rgba(5, 136, 25, 0.427);
     font-size: 100%;
     position: absolute;
     width: 80%;
@@ -207,7 +206,7 @@ main {
 }
 
 #spectrometry div {
-    background-color: rgba(39, 245, 70, 0.708);
+    background-color: rgba(5, 136, 25, 0.427);
     font-size: 100%;
     position: absolute;
     width: 80%;
