@@ -42,11 +42,11 @@ shields.io badges
   - [Initial Discussion](#initial-discussion)
   - [User stories](#user-stories)
 
-- Design
+- [Design](#design)
 
   - Colour Scheme
   - Typography
-  - Imagery
+  - [Imagery](#imagery)
   - Wireframes
 
 - [Features](#features)
@@ -55,9 +55,10 @@ shields.io badges
     - [Case Studies Page](#case-studies-page)
     - [Gallery](#gallery-page)
     - [Contact Page](#contact-page)
-  - Future Features
-    - Map Updates
-  - Accessibility
+  - [Future Features](#future-features)
+  
+
+- Accessibility
 - Technologies used
 
   - Languages Used
@@ -132,8 +133,16 @@ shields.io badges
 
 - I want to see and read any news relating to the Quarry Survey project.
 - I want to see the results of My Survey included in the Map.
-
 ---
+## Design
+---
+### Imagery  
+All of the images used on this site have been created by Geochron Ltd., and include the following types of images.
+
+- High resolution digital images, which are stitched together to create a distortion-free photomosaic used to create 2D and 3D models.
+- 3D models which have been created using LIDAR point cloud.
+- Gamma radiometric data, including measurements of naturally occurring gamma radiation such as dose rate, potassium, equivalent uranium, and thorium activities, used to create 2D maps and 3D models. 
+
 ## Features
 ---
 ### General Features on each page
@@ -174,6 +183,12 @@ The contact form has the following features:
 - There are three separate requests which each have a customised checkbox.
 - To increase accessibility, the checkboxes have been made large, and change colour when hovered over. 
 - There is a submit button which changes to white with red text when hovered over. When clicked, the submit button leads the user to a Thank You page informing that the user will be contacted as soon as possible.
+
+#### Future Features
+---
+- Other geochron projects will be included.
+- New services and applications will be included.
+- An index of all quarries surveyed will be included on a search page, allowing quarry owners to access their data via a seure link.
 
 ## Deployment
 
