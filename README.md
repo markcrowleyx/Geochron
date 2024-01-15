@@ -1,5 +1,6 @@
 # Geochron
 
+![Screenshot of website on different isze screens](/docs/screenshot%20of%20responsive%20pages.png)
 Founded in 2015 by Dr Quentin Crowley, Geochron is a spin-out company from a research project in Trinity College Dublin. Geochron now offers a range of innovative environmental solutions, and is the first company offering customised remote sensing surveys of quarries in Ireland.
 
 ## Our Purpose
@@ -141,6 +142,11 @@ shields.io badges
 ---
 ### General Features on each page
 ---
+All the pages on the website have :
+
+- A favicon which is the centre part of the Geochron logo.
+- A navbar which allows the users to easily navigate through the site. On mobile devices the navbar is collapsed into a burger icon with a dropdown navbar.
+- A footer which contains links to the social media accounts.
 #### Landing Page
 ---
 The Landing Page is divided into four sections:
@@ -155,7 +161,7 @@ The Services section is further divided into three sections, each with a relevan
 ---
 - The case studies page presents information about the project and its funding. 
 - It features a detailed map showing the modelled radon and thoron concentrations in Ireland. The map was made and produced by Dr. Quentin Crowley.
-- A
+- A description of the separate datasets is given
 
 ## Deployment
 
