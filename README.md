@@ -45,7 +45,7 @@ shields.io badges
 - [Design](#design)
 
   - Colour Scheme
-  - Typography
+  - [Typography]
   - [Imagery](#imagery)
   - Wireframes
 
@@ -136,7 +136,14 @@ shields.io badges
 ---
 ## Design
 ---
+### Typography
+---
+Google Fonts was used to import the fonts used for this site.
+
+- The Roboto, sans serif is used as the main font for the entire website.
+- The Rokkitt font is used for the header, and for the h1, h2 and h3 headings.
 ### Imagery  
+---
 All of the images used on this site have been created by Geochron Ltd., and include the following types of images.
 
 - High resolution digital images, which are stitched together to create a distortion-free photomosaic used to create 2D and 3D models.
