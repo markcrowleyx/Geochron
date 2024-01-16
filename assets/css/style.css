@@ -331,6 +331,7 @@ main {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.5);
     padding: 30px;
+    margin: auto;
 }
 
 #contact-form>h2 {
@@ -445,23 +446,21 @@ form>input {
     background-image: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp");
     background-size: cover;
     background-repeat: no-repeat;
-    position: relative;
     width: 100%;
-    height: 600px;
-    color: #ffffff;
-    text-align: center;
-    display: flex;
+    height: calc(100vh-142.13px);
+  
+     
     }
 
-#thanks-text {
+/*#thanks-text {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.7);
     padding: 30px 10px 0 10px;
     margin: auto;
-    
-    min-height: 300px;
+    min-height: 50vh;
     width: 80%;
     font-size: 120%;
+    text-align: center;
   
 }
 
@@ -471,7 +470,7 @@ form>input {
 
 #thanks-text  div {
     margin-bottom: 40px;
-}
+}*/
 
 /* Footer */
 #social-networks {
