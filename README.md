@@ -156,6 +156,13 @@ All of the images used on this site have been created by Geochron Ltd., and incl
 - 3D models which have been created using LIDAR point cloud.
 - Gamma radiometric data, including measurements of naturally occurring gamma radiation such as dose rate, potassium, equivalent uranium, and thorium activities, used to create 2D maps and 3D models. 
 
+### Wireframes
+---
+Wire frames were created for Mobile, tablet and desktop using Balsamiq.
+![Wireframes of landing page](./docs/wireframes/Wireframe-landing-page.png)
+![Wireframes of case study page](/docs/wireframes/wireframe-case-studies-page.png)
+![Wireframes of gallery page](/docs/wireframes/Gallery-page.png)
+![wireframes of contact page](/docs/wireframes/wireframe-contact-page.png)
 ## Features
 ---
 ### General Features on each page
