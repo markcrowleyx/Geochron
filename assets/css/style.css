@@ -444,10 +444,14 @@ form>input {
 /* Confirmation page */
 #thanks {
     background: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp") center/cover;
-    width: 100%;
+    background-attachment: fixed;
     height: 100vh;
     display: flex;
-    justify-content: center;
+    width: 100%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
    }
 
 #thanks-text {
