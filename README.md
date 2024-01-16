@@ -68,7 +68,7 @@ shields.io badges
   
     - [Local Development](#local-development)
     - [How to Fork](#how-to-fork)
-    - How to Clone
+    - [How to Clone](#how-to-clone)
 
 - Testing
 
