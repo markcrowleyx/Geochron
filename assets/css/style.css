@@ -321,8 +321,7 @@ main {
 /* Contact page */
 /* Form */
 #contact {
-    background-image: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp");
-    background-size: cover;
+    background-image: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp") no-repeat center/cover;
     background-position: 50%;
     padding: 20px 10% 10px 10%;
     flex-grow: 1;
