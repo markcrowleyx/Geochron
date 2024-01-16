@@ -47,7 +47,7 @@ shields.io badges
   - [Colour Scheme](#colour-scheme)
   - [Typography](#typography)
   - [Imagery](#imagery)
-  - Wireframes
+  - [Wireframes](#wireframes)
 
 - [Features](#features)
   - [General Features on Each Page](#general-features-on-each-page)
