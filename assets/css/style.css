@@ -443,21 +443,19 @@ form>input {
 
 /* Confirmation page */
 #thanks {
-    background-image: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp") center/cover;
     width: 100%;
-    height: calc(100vh-142.13px);
-  
-     
-    }
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+   }
 
-/*#thanks-text {
+#thanks-text {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.7);
     padding: 30px 10px 0 10px;
     margin: auto;
-    min-height: 50vh;
+    min-height: 20vh;
     width: 80%;
     font-size: 120%;
     text-align: center;
@@ -470,7 +468,7 @@ form>input {
 
 #thanks-text  div {
     margin-bottom: 40px;
-}*/
+}
 
 /* Footer */
 #social-networks {
