@@ -58,17 +58,16 @@ shields.io badges
   - [Future Features](#future-features)
   
 
-- Accessibility
+- [Accessibility](#accessibility)
 - Technologies used
 
   - Languages Used
   - Frameworks, Libraries & Programs Used
 
 - [Deployment](#deployment)
-
-  - [This Project](#this-project)
-    - Local Development
-    - How to Fork
+  
+    - [Local Development](#local-development)
+    - [How to Fork](#how-to-fork)
     - How to Clone
 
 - Testing
@@ -217,14 +216,18 @@ The contact form has the following features:
 - New services and applications will be included.
 - An index of all quarries surveyed will be included on a search page, allowing quarry owners to access their data via a seure link.
 
-## Deployment
-
+## Accessibility
 ---
+Care has been taken throughout the coding to ensure that this website is as accessible friendly as possible. Particular attention has been given to the following points:
 
-### This project
-
-- This site was deployed using the following steps:
-
+- Using semantic HTML.
+- Ensuring sufficient contrast between the text and its respective background.
+- Using a high contrast hover state on the buttons and the text input fields.
+- Using large checkboxes with high contrast in the contact form.
+- The use of accurate alt descriptions for the images used in the website.
+## Deployment
+---
+ This site was deployed using the following steps:
 1. Open GitHub.
 2. Select the project to be deployed.
 3. Go to 'Settings'.
@@ -234,3 +237,17 @@ The contact form has the following features:
 7. Set **Folder** to 'Root'.
 8. Under **Branch** click 'Save'
 9. The link to the live website is now displayed at the top of the page.
+### Local development
+---
+#### How to Fork
+1. Log in to Github.
+2. Go to the repository for this project.
+3. At the top right of the page, click the "Fork" button. This will create a copy of the repository under your Github account.
+#### How to clone
+1. Log in to Github.
+2. Go to the repository for this project.
+3. Click on the "Code" button, select from HTTPS, SSH or Github CLI.
+4. Copy the URL for the repository.
+5. Open your terminal or command prompt.
+6. Navigate to the directory where you want to clone your repository.
+7. Use the `git clone` command followed by the URL that you have copied.
