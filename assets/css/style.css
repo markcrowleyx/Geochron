@@ -403,8 +403,6 @@ form>input {
 }
 
 .container .checkmark:after {
-    -ms-transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
     border: solid #ffffff;
     border-width: 0 3px 3px 0;
     height: 10px;
