@@ -579,8 +579,5 @@ form>input {
         bottom: 80px;
     }
 
-/* Gallery */
-    #uav-images {
-        column-count: 4;
-    }
+
 }
