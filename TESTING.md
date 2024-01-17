@@ -1,0 +1,12 @@
+- Testing
+
+  - W3C Validator
+  - Solved Bugs
+  - Known Bugs
+  - Lighthouse
+    - Landing Page
+    - About Page
+    - Survey project page
+    - Photo Gallery Page
+    - Contact Page
+  - Full Testing
