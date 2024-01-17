@@ -72,16 +72,6 @@ shields.io badges
 
 - Testing
 
-  - W3C Validator
-  - Solved Bugs
-  - Known Bugs
-  - Lighthouse
-    - Landing Page
-    - About Page
-    - Survey project page
-    - Photo Gallery Page
-    - Contact Page
-  - Full Testing
 
 - Credits
   - Code used
@@ -252,3 +242,8 @@ Care has been taken throughout the coding to ensure that this website is as acce
 5. Open your terminal or command prompt.
 6. Navigate to the directory where you want to clone your repository.
 7. Use the `git clone` command followed by the URL that you have copied.
+## Testing
+
+Please refer to the [TESTING.md](TESTING.md) file for details on all testing carried out.
+
+---
