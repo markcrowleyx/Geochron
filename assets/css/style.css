@@ -532,11 +532,6 @@ form>input {
         bottom: 180px;
     }
 
-    /* Gallery */
-    #uav-images {
-        column-count: 3;
-    }
-
     /* Request contact section */
     #contact {
         background-position: center;
