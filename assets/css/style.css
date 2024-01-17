@@ -262,6 +262,9 @@ main {
     width: 100%;
 }
 
+#gallery {
+    background-color: #454b1b;
+}
 /* Case-Studies page */
 #case-studies {
     width: 90%;
