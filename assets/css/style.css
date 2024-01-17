@@ -148,7 +148,7 @@ main {
 
 /* Services section styles */
 #services {
-    height: 600;
+    height: 600px;
     padding: 0 20px;
     width: 100%;
    }
@@ -356,11 +356,7 @@ form>input {
 }
 
 /* Customise checkboxes */
-/* Customise the label */
 .container {
-    -moz-user-select: none;
-    -ms-user-select: none;
-    -webkit-user-select: none;
     cursor: pointer;
     display: block;
     font-size: 22px;
@@ -370,7 +366,6 @@ form>input {
     user-select: none;
 }
 
-/* Hide the browser's default checkbox */
 .container input {
     position: absolute;
     opacity: 0;
@@ -379,7 +374,6 @@ form>input {
     width: 0;
 }
 
-/* Create a custom checkbox */
 .checkmark {
     position: absolute;
     top: 0;
@@ -390,24 +384,20 @@ form>input {
     
 }
 
-/* On mouse-over, add a green background color */
 .container:hover input~.checkmark {
     background-color: #067354;
 }
 
-/* When the checkbox is checked, add a blue background */
 .container input:checked~.checkmark {
     background-color: #2196F3;
 }
 
-/* Create the checkmark/indicator (hidden when not checked) */
 .checkmark:after {
     content: "";
     position: absolute;
     display: none;
 }
 
-/* Show the checkmark when checked */
 .container input:checked~.checkmark:after {
     display: block;
 }
