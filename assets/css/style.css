@@ -3,46 +3,45 @@
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
-    padding: 0;
-    margin: 0;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 /* General styles */
 body {
-    min-height: 100vh;
+    color: #3a3a3a;
     display: flex;
     flex-direction: column;
-    /* Generic websitstyles */
-    color: #3a3a3a;
     font-family: "Roboto", sans-serif;
-}
+    min-height: 100vh;
+    }
 
 h1,
 h2,
 h3 {
-    font-family: "Rokkitt", serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
     color: #252525;
+    font-family: "Rokkitt", serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 /* Header */
 header {
+    align-items: baseline;
     background-color: #ffffff;
-    padding: 0 1rem;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    padding: 0 1rem;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
 }
 
 header a {
-    text-decoration: none;
     color: inherit;
+    text-decoration: none;
 }
 
 #menu {
@@ -62,14 +61,14 @@ header a {
 /* Navbar styles with dropdown toggle */
 
 nav {
-    position: absolute;
     background-color: #ffffff;
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
+    left: 0;
+    padding: 0 1rem;
+    position: absolute;
     top: 100%;
+    width: 100%;
 }
 
 /* Nav toggle */
@@ -87,30 +86,29 @@ nav {
 
 /* Main Content */
 main {
-    /* make main take up space and push footer down */
-    flex: 1 auto;
-    margin-top: 76.67px;
     display: flex;
+    flex: 1 auto;
     flex-direction: column;
+    margin-top: 76.67px;
 }
 
     /* Hero section styles */
 #hero {
-    height: 600px;
-    width: 100%;
     background: url("../images/Drone\ in\ flight\ 1.jpg") no-repeat center center/cover;
+    height: 600px;
     position: relative;
-    }
+    width: 100%;
+}
 
 #cover-text {
     background-color: rgba(2, 55, 10, 0.427);
+    bottom: 40px;
     font-size: 120%;
+    min-height: 200px;
+    padding-left: 10px;
+    padding-top: 20px;
     position: absolute;
     width: 80%;
-    min-height: 200px;
-    padding-top: 20px;
-    padding-left: 10px;
-    bottom: 40px;
 }
 
 #cover-text>h2, #cover-text>h3 {
@@ -119,14 +117,14 @@ main {
 
 /* About section */
 #about {
-    width: 90%;
     margin: 20px auto;
+    width: 90%;
 }
 
 #about h2 {
+    font-size: 180%;
     margin-bottom: 20px;
     text-align: center;
-    font-size: 180%;
 }
 
 #about p {
@@ -151,37 +149,37 @@ main {
 /* Services section styles */
 #services {
     height: 600;
-    width: 100%;
     padding: 0 20px;
-}
+    width: 100%;
+   }
 
 #services-cover-text {
     background-color: rgba(5, 136, 25, 0.427);
+    bottom: 40px;
     font-size: 120%;
+    min-height: 200px;
+    padding-left: 10px;
+    padding-top: 20px;
     position: absolute;
     width: 80%;
-    min-height: 200px;
-    padding-top: 20px;
-    padding-left: 10px;
-    bottom: 40px;
 }
 
 #three-d {
     background: url("../images/Digital\ elevation\ model\ of\ a\ quarry\ in\ Ireland_1\ \(1\).png") no-repeat center/cover;
     height: 600px;
-    width: 100%;
     position: relative;
+    width: 100%;
 }
 
 #three-d div {
     background-color: rgba(2, 55, 10, 0.7);
-    font-size: 100%;
-    position: absolute;
-    width: 80%;
-    min-height: 100px;
-    padding: 10px;
     bottom: 40px;
     color: #ffffff;
+    font-size: 100%;
+    min-height: 100px;
+    padding: 10px;
+    position: absolute;
+    width: 80%;
 }
 /* Set h2 to white for good readability */
 #three-d div h2{
@@ -191,20 +189,20 @@ main {
 #images {
     background: url("../images/Orthorectified\ photomosaic\ of\ a\ quarry\ in\ Ireland\ from\ UAV\ aerial\ images\ \(1\).png") no-repeat center/cover;
     height: 600px;
-    width: 100%;
     position: relative;
+    width: 100%;
 }
 
 #images div {
     background-color: rgba(2, 55, 10, 0.7);
-    font-size: 100%;
-    position: absolute;
-    width: 80%;
-    min-height: 100px;
-    padding: 10px;
     bottom: 40px;
     color: #ffffff;
-    }
+    font-size: 100%;
+    min-height: 100px;
+    padding: 10px;
+    position: absolute;
+    width: 80%;
+}
 
 /* Set h2 color to white for good readability */
 #images div h2 {
@@ -213,20 +211,20 @@ main {
 #spectrometry {
     background: url("../images/Wicklow\ Quarry\ 3D\ Hillshade\ Model.webp") no-repeat center/cover;
     height: 600px;
-    width: 100%;
     position: relative;
+    width: 100%;
 }
 
 #spectrometry div {
     background-color: rgba(2, 55, 10, 0.8);
-    font-size: 100%;
-    position: absolute;
-    width: 80%;
-    min-height: 100px;
-    padding: 10px;
     bottom: 40px;
     color: #ffffff;
-}
+    font-size: 100%;
+    min-height: 100px;
+    padding: 10px;
+    position: absolute;
+    width: 80%;
+   }
 
 /* Set h2 color to white for good readability */
 #spectrometry div h2 {
@@ -235,8 +233,8 @@ main {
 
 /* Applications section */
 #applications {
-    width: 90%;
     margin: 20px auto;
+    width: 90%;
 }
 #applications div {
     line-height: 20px;
@@ -248,9 +246,9 @@ main {
 }
 
 #applications h3 {
+    font-size: 180%;
     margin-bottom: 20px;
     text-align: center;
-    font-size: 180%;
 }
 
 #applications p {
@@ -360,15 +358,15 @@ form>input {
 /* Customise checkboxes */
 /* Customise the label */
 .container {
-    display: block;
-    position: relative;
-    padding-left: 35px;
-    margin-bottom: 12px;
-    cursor: pointer;
-    font-size: 22px;
-    -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
+    -webkit-user-select: none;
+    cursor: pointer;
+    display: block;
+    font-size: 22px;
+    margin-bottom: 12px;
+    padding-left: 35px;
+    position: relative;
     user-select: none;
 }
 
@@ -414,17 +412,16 @@ form>input {
     display: block;
 }
 
-/* Style the checkmark/indicator */
 .container .checkmark:after {
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    border: solid #ffffff;
+    border-width: 0 3px 3px 0;
+    height: 10px;
     left: 9px;
     top: 5px;
-    width: 5px;
-    height: 10px;
-    border: solid white;
-    border-width: 0 3px 3px 0;
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
     transform: rotate(45deg);
+    width: 5px;
 }
 
 /* End of check boxes */
@@ -460,15 +457,14 @@ form>input {
    }
 
 #thanks-text {
-    color: #ffffff;
     background-color: rgba(60, 60, 60, 0.7);
-    padding: 30px 10px 0 10px;
+    color: #ffffff;
+    font-size: 120%;
     margin: auto;
     min-height: 20vh;
-    width: 80%;
-    font-size: 120%;
+    padding: 30px 10px 0 10px;
     text-align: center;
-  
+    width: 80%;
 }
 
 #thanks-text  h2 {
@@ -481,11 +477,11 @@ form>input {
 
 /* Footer */
 #social-networks {
-    text-align: center;
-    padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    padding: 20px 0;
+    text-align: center;
 }
 
 /* Social networks icons */
