@@ -221,6 +221,7 @@ The contact form has the following features:
 Care has been taken throughout the coding to ensure that this website is as accessible friendly as possible. Particular attention has been given to the following points:
 
 - Using semantic HTML.
+- All CSS properties in the style rules have been ordered alphabetically for ease of reference.
 - Ensuring sufficient contrast between the text and its respective background.
 - Using a high contrast hover state on the buttons and the text input fields.
 - Using large checkboxes with high contrast in the contact form.
