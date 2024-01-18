@@ -85,8 +85,43 @@ Lighthouse from the Chrome Developer tools was used to test the performance, acc
 |:---|:---|
 |I want to see the updated maps.|The site map of the quarries in the survey is updated whenever a new quarry is added.|
 |I want to be able to request a survey|The users may request a survey simply by checking the relevant box on the contact form.|
+---
 ### Full Testing
-### Responsivness
+Full testing was performed on the following devices:
+- Laptop
+  - HP EliteBook 840G3 14 inch screen
+- Mobile devices:
+  - Samsung Galaxy J6+
+  - Alcatel 1S
+
+Each device was tested using the following browsers:
+
+- Google Chrome
+- Firefox
+
+Family also helped with this testing, and reported that all features function as they should.
+
+#### Mobile devices
+---
+|Feature|Expected outcome|Testing performed|Result|Pass/Fail|
+|:---|:---|:---|:---|:---|
+|The site's title|Link directs user back to site's landing page|Clicked title|Landing page reloads|Pass|
+|Navbar|Links direct user to specified page|Click each link while on each page|User is directed to corresponding page.|Pass|
+|Social media links in footer|Links direct user to respective site on a new page|Click on links while on each page|Link to specified social media opens in new tab.|Pass|
+|Links on Case studies page|Links direct user to the corresponding website|Click on links|Link opens in new tab|pass|
+|Input fields on contact form all have input validation, and are required to be filled before submitting.|Form cannot be submitted without filling all required fields, an email address must be entered in the corresponding input field, a number must be entered in the phone number field.|Attempt to submit the form without filling the required fields, attempt to input text in the phone number input field.|The form cannot be submitted without the required data, the phone number field will not accept text, the email field requires an email address to be entered before submitting is possible.|Pass|
+---
+#### Larger screens
+In addition to all of the above, on larger screens there are the following features on the contact form which were also tested:
+|Feature|Expected outcome|Testing performed|Result|Pass/Fail|
+|:---|:---|:---|:---|:---|
+|Text input boxes hover over|Border changes to red.|Hover cursor over input field|Border highlights in red colour|Pass
+|Text input box: Input text|Placeholder text is replaced and background changes to white|Input text|Placeholder text is replaced and backround changes to white|Pass|
+|Checkboxes hover over|Change colour to green, cursor changes to a pointer|Hover over checkboxes|Colour changes to green|Pass|
+|Checkboxes checked|Change colour to blue with a white tick|Click checkboxes|Changes colour to blue with a wite central tick|Pass|
+|Send Request button hover over|Change colour to white with red text, cursor changes to a pointer|Hover over|Button changes to wite with red text and cursor changes into a pointer|
+---
+## Responsivness
   Each page has been inspected on chrome developer tools and Firefox developer tools, ensuring that the pages are fully responsive on a variety of screen sizes. The site has also been physically tested on a wide range of different devices.
 
   ![Index page galaxy fold](/docs/testing/screenshot%20of%20responsive%20pages.png)
@@ -138,4 +173,5 @@ Lighthouse from the Chrome Developer tools was used to test the performance, acc
 |Links/URLs work as expected|Good|Good|Good|Good|Good|
 |Renders as expected|Good|Good|Good|Good|Good|
 
+Back to [README.md](README.md)
 
