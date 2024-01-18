@@ -196,9 +196,14 @@ The contact form has the following features:
 - On larger screens, the text input borders change to red when hovered over.
 - There are three separate requests which each have a customised checkbox.
 - To increase accessibility, the checkboxes have been made large, and change colour when hovered over. 
-- There is a submit button which changes to white with red text when hovered over. When clicked, the submit button leads the user to a Thank You page informing that the user will be contacted as soon as possible.
+- There is a submit button which changes to white with red text when hovered over. When clicked, the submit button leads the user to a Confirmation page page informing that the user will be contacted as soon as possible.
 
-![Contact Page](/docs/Screenshot-contact-page.png)
+![Contact Page](/docs/wireframes/Responsive-image-contact-page.png)
+
+### Confirmation page
+
+After clicking on the submit button on the Contact Page form, the confirmation page opens informing the user that they will be contacted as soon as possible. The navbar at the top of the page stays active, so the user can return to whichever page they want.
+![Confirmation page](docs/wireframes/Responsive-image-confirmation-page.png)
 
 #### Future Features
 ---
