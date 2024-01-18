@@ -39,12 +39,28 @@ Lighthouse from the Chrome Developer tools was used to test the performance, acc
 
   ![Case-Studies page Lighthouse testing desktop](docs/testing/lighthouse-case-studies-desktop.png)
 - Gallery page
- ![Gallery page Lighthouse testing desktop](docs/testing/lighthouse-gallery-desktop.png)
--Confirmation page
- ![Confirmation page Lighthouse testing desktop](docs/testing/lighthouse-confirmation-desktop.png)
+
+  ![Gallery page Lighthouse testing desktop](docs/testing/lighthouse-gallery-desktop.png)
+-Contact page
+
+  ![Contact page Lighthouse testing - Desktop](docs/testing/lighthouse-contact-page-desktop.png)
+- Confirmation page
+
+  ![Confirmation page Lighthouse testing desktop](docs/testing/lighthouse-confirmation-desktop.png)
 ### Mobile Results
 
+- Index page
 
+  ![Index page lighthouse testing - mobile](docs/testing/lighthouse-landing-page-mobile.png)
+- Case Studies page
 
+  ![Case Studies page Lighthouse testing - mobile](docs/testing/lighthouse-case-studies-mobile.png)
+- Gallery page
 
-  
+  ![Gallery page lighthouse testing - mobile](docs/testing/lighthouse-gallery-mobile%20.png)
+- Contact page
+
+  ![Contact page Lighthouse testing - mobile](docs/testing/lighthouse-contact-mobile.png)
+- Confirmation page
+
+  ![Confirmation page Lighthouse testing - mobile](docs/testing/lighthouse-confirmation-mobile.png)
