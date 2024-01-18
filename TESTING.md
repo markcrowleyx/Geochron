@@ -63,6 +63,28 @@ Lighthouse from the Chrome Developer tools was used to test the performance, acc
   ![Confirmation page Lighthouse testing - mobile](docs/testing/lighthouse-confirmation-mobile.png)
 ## MANUAL TESTING
   Testing was continuous throughout the entire project build. Chrome developer tools were used to find and solve issues during the development.
+### Testing User Stories
+`client goals`
+|Goals|Testing|
+|:---|:---|
+|To be able to view the website on a variety of device sizes.|The site has been checked on various sizes of devices, and has been found to perfom well on all sizes tested.|
+|To provide an clear overview of the Quarry Survey Project|A thorough description of the survey project has been given, as well as a variety of images outputted from quarry surveys, and a description of the common applications arising from the use of the information generated.|
+|To allow people to contact Geochron Ltd. to ask questions, and to request further information about the other services provided|The contact form provides the user with the means to request further information by using check boxes on the form.|
+|To provide a means of requesting a survey.|The user can request a survey directly from the contact form using a check box.|
+
+`First Time Visitors`
+|Goals|Testing|
+|:---|:---|
+|I want to find out about what Geochron Ltd. does, and what the Quarry Survey Project is about.|There is a clear description about the company, as well as a detailed description about the Survey project.|
+|I want to navigate the website easily and view the information.|There is a navbar at the top of each page which permits easy navigation within the website. On the `Thank you` page the navbar remains visible and the user can easily return to any page they wish, or return to the landing page directly by clicking on the company name.|
+|I want to see examples of surveys which have already been completed.|There are a variety of images from surveys that have been conducted, as well as a map of Ireland showing the location of quarries, many of which have already been surveyed.|
+|I want to find their Social media links|The social media links are located in the footer of each page, and open the respective link in a new tab.|
+
+`returning visitors`
+|Goals|Testing|
+|:---|:---|
+|I want to see the updated maps.|The site map of the quarries in the survey is updated whenever a new quarry is added.|
+|I want to be able to request a survey|The users may request a survey simply by checking the relevant box on the contact form.|
 ### Full Testing
 ### Responsivness
   Each page has been inspected on chrome developer tools and Firefox developer tools, ensuring that the pages are fully responsive on a variety of screen sizes. The site has also been physically tested on a wide range of different devices.
@@ -115,4 +137,5 @@ Lighthouse from the Chrome Developer tools was used to test the performance, acc
 |Images work as expected|Good|Good|Good|Good|Good|
 |Links/URLs work as expected|Good|Good|Good|Good|Good|
 |Renders as expected|Good|Good|Good|Good|Good|
-  
+
+
