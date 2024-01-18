@@ -138,6 +138,10 @@ main {
     margin-bottom: 20px;
 }
 
+#company h3 {
+    padding: 0 20px;
+}
+
 #company p {
     padding: 0 20px;
 }
