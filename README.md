@@ -1,4 +1,4 @@
-# Geochron
+# Geochron Ltd.
 
 ![Screenshot of website on different isze screens](/docs/screenshot%20of%20responsive%20pages.png)
 Visit the deployed site here : [Geochron Ltd.](https://markcrowleyx.github.io/Portfolio-1/)
