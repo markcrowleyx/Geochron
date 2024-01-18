@@ -65,7 +65,6 @@ The project outputs serve as a unique and valuable resource for scientific resea
 - Credits
   - Code used
   - Content
-  - Media
   - Acknowledgements
 
 ---
