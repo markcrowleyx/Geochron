@@ -18,37 +18,28 @@ Geochron Ltd offers a range of customised remote sensing services. Using state o
 ## Project
 ### Safe and sustainable supply of building materials
 
-Funded by a European Open Science Cloud (EOSC) Futures grant administered by GÉANT, Geochron was awarded an EU tender to conduct a survey of representative quarries supplying building materials in Ireland. Surveys are designed to assist quarries to demonstrate compliance with relevant environmental and radiation protection legislation, or for planning applications for new quarries or expansion of existing quarries.
+Funded by a European Open Science Cloud (EOSC) Futures grant administered by GÉANT, Geochron was awarded an EU tender to conduct a survey of representative quarries supplying building materials in Ireland. 
 
 ### Applications
 
 The project outputs serve as a unique and valuable resource for scientific research with a range of different applications, including:
 
-- Resource Management: Assisting quarry owners and operators to manage their natural resources by providing volume estimates and high resolution images and datasets which they can share with potential customers.
-- Land Use Planning: The high-resolution photogrammetry and lidar data offer detailed mapping of the quarries, to support planning of quarry operations. Maps and data can be also be used to support planning applications for expansion of existing quarries, or development of new quarries. 
-- Geological Research: The collected datasets offer a detailed and high-resolution view of the Earth's surface within the quarries, providing geologists with valuable insights into the geological composition, structure, and dynamics. Researchers can use this information to enhance their understanding of local geological features and processes.
-- Environmental Studies: The datasets contribute to environmental research by providing information on different environmental parameters, including 2D and 3D models of the quarry surface. 
-- Radiation Protection: The gamma radiometric data can be used to demonstrate compliance with radiation protection measures. This is particularly relevant given the potential future scrutiny from the EPA and the increasing importance of adhering to EU regulations in the international marketplace.
-
-
-shields.io badges
-
+- Resource Management.
+- Land Use Planning.
+- Geological Research.
+- Environmental Studies.
+- Radiation Protection.
 ---
-
 ## CONTENTS
 
 - [User Experience (UX)](#user-experience---ux)
-
   - [Initial Discussion](#initial-discussion)
   - [User stories](#user-stories)
-
 - [Design](#design)
-
   - [Colour Scheme](#colour-scheme)
   - [Typography](#typography)
   - [Imagery](#imagery)
   - [Wireframes](#wireframes)
-
 - [Features](#features)
   - [General Features on Each Page](#general-features-on-each-page)
     - [Landing Page](#landing-page)
@@ -56,8 +47,6 @@ shields.io badges
     - [Gallery](#gallery-page)
     - [Contact Page](#contact-page)
   - [Future Features](#future-features)
-  
-
 - [Accessibility](#accessibility)
 - Technologies used
 
@@ -70,7 +59,7 @@ shields.io badges
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
 
-- Testing
+- [Testing](#testing)
 
 
 - Credits
@@ -114,7 +103,6 @@ shields.io badges
 
 #### Returning Visitor Goals
 
-- I want to find updated information of recent surveys in the project.
 - I want to see the updated maps.
 - I want to be able to request a survey.
 
