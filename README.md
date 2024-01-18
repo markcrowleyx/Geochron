@@ -48,10 +48,10 @@ The project outputs serve as a unique and valuable resource for scientific resea
     - [Contact Page](#contact-page)
   - [Future Features](#future-features)
 - [Accessibility](#accessibility)
-- Technologies used
+- [Technologies used](#technologies-used)
 
-  - Languages Used
-  - Frameworks, Libraries & Programs Used
+  - [Language used](#language-used)
+  - [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
 - [Deployment](#deployment)
   
@@ -209,6 +209,28 @@ Care has been taken throughout the coding to ensure that this website is as acce
 - Using a high contrast hover state on the buttons and the text input fields.
 - Using large checkboxes with high contrast in the contact form.
 - The use of accurate alt descriptions for the images used in the website.
+## Technologies used
+
+#### Language used
+HTML and CSS are the languages used on this website.
+#### Frameworks, Libraries & Programs Used
+- [Balsamiq](https://balsamiq.com/) - To create wireframes
+- [Tiny](https://balsamiq.com/) - To compress photos to png format.
+- [Favicon.io](https://favicon.io/) - To create and download the favicon logo.
+- [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Amiresponsive](https://amiresponsive.co.uk/) - To create views of the website on different viewing devices.
+- [Google Fonts](https://fonts.google.com/) for importing the font families used.
+- [Font awesome](https://fontawesome.com/) - for the social media icons
+- [W3C HTML validator](https://validator.w3.org/)
+- [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
+- [Google Dev tools](https://developer.chrome.com/docs/) - to troubleshoot and test issues during the development.
+- [Pixlr](https://pixlr.com/) photo editor - to edit, crop, compress and then convert the images to .webp format.
+- [Fontpair](https://www.fontpair.co/) - to choos a compatibe pair of fonts for use in the website.
+- [MDN webdocs](https://developer.mozilla.org/en-US/) - reference
+- [W3C schools](https://www.w3schools.com/) for resolving code format in CSS and HTML.
+- [coolors](https://coolors.co/) - for choosing the color palettes 
+
+
 ## Deployment
 ---
  This site was deployed using the following steps:
