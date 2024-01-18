@@ -11,15 +11,12 @@ Visit the deployed site here: [Geochron](https://markcrowleyx.github.io/Portfoli
   - Solved Bugs
   - Known Bugs
   - [Lighthouse](#lighthouse)
-- MANUAL TESTING
-  - Full Testing
-  Testing was continuous throughout the entire project build. Chrome developer tools were used to find and solve issues during the development.
-
-  Each page has been inspected on chrome developer tools and Firefox developer tools, ensuring that the pages are fully responsive on a variety of screen sizes. The site has also been physically tested on a wide range of different devices.
+- [MANUAL TESTING](#manual-testing)
+  - [Full Testing](#full-testing)
+  - [Responsivness](#responsivness)
   ## AUTOMATED TESTING
   
   ### W3C Validator
-
   [W3C](https://validator.w3.org/) was used to validate the HTML of all pages of the website, as well as the CSS.
   
   - [Index page W3C HTML Validation](docs/testing/HTML-checker.png) - Pass
@@ -64,3 +61,58 @@ Lighthouse from the Chrome Developer tools was used to test the performance, acc
 - Confirmation page
 
   ![Confirmation page Lighthouse testing - mobile](docs/testing/lighthouse-confirmation-mobile.png)
+## MANUAL TESTING
+  Testing was continuous throughout the entire project build. Chrome developer tools were used to find and solve issues during the development.
+### Full Testing
+### Responsivness
+  Each page has been inspected on chrome developer tools and Firefox developer tools, ensuring that the pages are fully responsive on a variety of screen sizes. The site has also been physically tested on a wide range of different devices.
+
+  ![Index page galaxy fold](/docs/testing/screenshot%20of%20responsive%20pages.png)
+
+  - Galaxy fold index page
+
+![Galaxy fold index](/docs/testing/Responsivness/index-galaxy-fold.png)
+- ipad mini index page
+
+![ipad mini index](/docs/testing/Responsivness/index-ipad-mini.png)
+
+- Galaxy fold Case studies page
+
+![Galaxy fold case studies](/docs/testing/Responsivness/case-studies-galaxy-fold.png)
+
+- iPad mini case studies page
+
+![iPad mini case studies](/docs/testing/Responsivness/case-studies-ipad-mini.png)
+
+-Galaxy fold gallery page
+
+![Galaxy fold gallery](/docs/testing/Responsivness/gallery-galaxy-fold.png)
+
+- iPad mini gallery page
+
+![iPad mini gallery](/docs/testing/Responsivness/gallery-ipad-mini.png)
+
+-Galaxy fold contact page
+
+![Galaxy fold contact](/docs/testing/Responsivness/contact-page-galaxy-fold.png)
+
+- iPad mini contact page
+
+![iPad mini contact](/docs/testing/Responsivness/contact-page-ipad-mini.png)
+
+- Galaxy fold confirmation page
+
+![Galaxy fold confirmation](/docs/testing/Responsivness/Thank-you-galaxy-fold.png)
+
+- iPad mini confirmation page
+
+![iPad mini confirmation](/docs/testing/Responsivness/thank-you-ipad-mini.png)
+### Responsivness summary
+||Galaxy Fold|Galaxy J6+|iPad mini|HP Elitebook|Desktop > 1200px|
+|:--|:--|:--|:--|:--|:--|
+|Site is responsive less than 700px|Good|n/a|n/a|n/a|n/a|
+|Site is responsive over 700px|n/a|Good|Good|Good|Good|
+|Images work as expected|Good|Good|Good|Good|Good|
+|Links/URLs work as expected|Good|Good|Good|Good|Good|
+|Renders as expected|Good|Good|Good|Good|Good|
+  
