@@ -12,7 +12,7 @@ Geochron Ltd offers a range of customised remote sensing services. Using state o
 - Gamma spectrometry. Using specially developed gamma detectors, outputs include gamma dose rate, and concentrations of potassium (K), uranium (U), and thorium (Th). Gamma spectrometry outputs can be integrated into 3D models.
 ## Project
 ### Safe and sustainable supply of building materials
-Funded by a European Open Science Cloud (EOSC) Futures grant administered by GÉANT, Geochron was awarded an EU tender to conduct a survey of representative quarries supplying building materials in Ireland. 
+Funded by a European Open Science Cloud ([EOSC](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science/european-open-science-cloud-eosc_en)) Futures grant administered by [GÉANT](https://geant.org/), Geochron was awarded an EU tender to conduct a survey of representative quarries supplying building materials in Ireland. 
 ### Applications
 The project outputs serve as a unique and valuable resource for scientific research with a range of different applications, including:
 - Resource Management.
