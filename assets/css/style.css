@@ -153,10 +153,9 @@ main {
 
 /* Services section styles */
 #services {
-    
     padding: 0 20px;
     width: 100%;
-   }
+}
 
 #services-cover-text {
     background-color: rgba(5, 136, 25, 0.427);
@@ -186,6 +185,7 @@ main {
     position: absolute;
     width: 80%;
 }
+
 /* Set h2 to white for good readability */
 #three-d div h2{
     color: #ffffff;
@@ -213,6 +213,7 @@ main {
 #images div h2 {
     color: #ffffff;
 }
+
 #spectrometry {
     background: url("../images/mosaic-8.webp") no-repeat center/cover;
     height: 600px;
@@ -260,6 +261,7 @@ main {
     padding: 0 20px;
     text-align: justify;
 }
+
 /* Gallery page */
 #uav-images img {
     width: 100%;
@@ -268,6 +270,7 @@ main {
 #gallery {
     background-color: #454b1b;
 }
+
 /* Case-Studies page */
 #case-studies {
     width: 90%;
@@ -313,10 +316,12 @@ main {
 #details p {
     padding: 0 20px;
 }
+
 .map > img {
     width: 100%;
     margin-top: 20px;
 }
+
 .map > p {
     width: 100%;
     font-style: italic;
@@ -361,6 +366,7 @@ form>input {
 }
 
 /* Customise checkboxes */
+/* The code for customising the checkboxes was adapted from an example in W3C Schools*/
 .container {
     cursor: pointer;
     display: block;
