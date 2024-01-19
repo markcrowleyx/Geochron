@@ -84,7 +84,6 @@ The project outputs serve as a unique and valuable resource for scientific resea
 ---
 ### Colour scheme
 ![Geochron site colour palette](/docs/Geochron%20palette.png)
-
 - The website uses backgound images with text on a trtansparent backgound. The colour of the text background is consistent through the whole website, using #02370a (Pakistan green) in degrees of transparency suitable for maintaining good readability over each repective background image.
 - In the Contact form, the mouse over hover colour used for the check boxes is #2196f3 ( Dodger blue) as this gives a high and easily visible change.
 - In the contact form text input fields, the hover over border colour is #f16c6b (Light coral).
