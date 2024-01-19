@@ -8,58 +8,49 @@ Visit the deployed site here: [Geochron](https://markcrowleyx.github.io/Portfoli
 ## CONTENTS
 - [AUTOMATED TESTING](#automated-testing)
   - [W3C Validator](#w3c-validator)
-  - Solved Bugs
-  - Known Bugs
+  - [Solved Bugs](#solved-bugs)
+  - [Known Bugs](#known-bugs)
   - [Lighthouse](#lighthouse)
 - [MANUAL TESTING](#manual-testing)
   - [Full Testing](#full-testing)
   - [Responsivness](#responsivness)
   ## AUTOMATED TESTING
-  
-  ### W3C Validator
+    ### W3C Validator
   [W3C](https://validator.w3.org/) was used to validate the HTML of all pages of the website, as well as the CSS.
-  
-  - [Index page W3C HTML Validation](docs/testing/HTML-checker.png) - Pass
+    - [Index page W3C HTML Validation](docs/testing/HTML-checker.png) - Pass
   - [Case-Studies page W3C HTML Validation](docs/testing/Html-checker-case-studies-page.png) - Pass
   - [Gallery page W3C HTML Validation](docs/testing/HTML-checker-gallery.png) - Pass
   - [Contact page W3C HTML Validation](docs/testing/HTML-checker-contact-page.png) - Pass
   - [Confirmation page W3C HTML Validation](docs/testing/HTML-checker-confirmation-page.png) - Pass
   - [style.css CSS Validation](docs/CSS-validator-gallery.png) - Pass
 ---
+### Solved Bugs
+Although there were many issues with incorrect code, all were solved by searching for clarification and correct syntax on W3C Schools and MDN documents.
+### Known Bugs
+There are no known bugs in the code.
 ### Lighthouse
 Lighthouse from the Chrome Developer tools was used to test the performance, accessibility, best practices and SEO of each page on the website.
 ### Desktop Results
 - Index page
-
   ![Index Page Lighthouse testing desktop](docs/testing/lighthouse-landing-page-desktop.png)
 - Case-Studies page 
-
   ![Case-Studies page Lighthouse testing desktop](docs/testing/lighthouse-case-studies-desktop.png)
 - Gallery page
-
   ![Gallery page Lighthouse testing desktop](docs/testing/lighthouse-gallery-desktop.png)
--Contact page
-
+- Contact page
   ![Contact page Lighthouse testing - Desktop](docs/testing/lighthouse-contact-page-desktop.png)
 - Confirmation page
-
   ![Confirmation page Lighthouse testing desktop](docs/testing/lighthouse-confirmation-desktop.png)
 ### Mobile Results
-
 - Index page
-
   ![Index page lighthouse testing - mobile](docs/testing/lighthouse-landing-page-mobile.png)
 - Case Studies page
-
   ![Case Studies page Lighthouse testing - mobile](docs/testing/lighthouse-case-studies-mobile.png)
 - Gallery page
-
   ![Gallery page lighthouse testing - mobile](docs/testing/lighthouse-gallery-mobile%20.png)
 - Contact page
-
   ![Contact page Lighthouse testing - mobile](docs/testing/lighthouse-contact-mobile.png)
 - Confirmation page
-
   ![Confirmation page Lighthouse testing - mobile](docs/testing/lighthouse-confirmation-mobile.png)
 ## MANUAL TESTING
   Testing was continuous throughout the entire project build. Chrome developer tools were used to find and solve issues during the development.
@@ -93,14 +84,10 @@ Full testing was performed on the following devices:
 - Mobile devices:
   - Samsung Galaxy J6+
   - Alcatel 1S
-
 Each device was tested using the following browsers:
-
 - Google Chrome
 - Firefox
-
 Family also helped with this testing, and reported that all features function as they should.
-
 #### Mobile devices
 ---
 |Feature|Expected outcome|Testing performed|Result|Pass/Fail|
@@ -123,7 +110,6 @@ In addition to all of the above, on larger screens there are the following featu
 ---
 ## Responsivness
   Each page has been inspected on chrome developer tools and Firefox developer tools, ensuring that the pages are fully responsive on a variety of screen sizes. The site has also been physically tested on a wide range of different devices.
-
   ![Index page galaxy fold](/docs/testing/screenshot%20of%20responsive%20pages.png)
 
   - Galaxy fold index page
@@ -141,7 +127,7 @@ In addition to all of the above, on larger screens there are the following featu
 
 ![iPad mini case studies](/docs/testing/Responsivness/case-studies-ipad-mini.png)
 
--Galaxy fold gallery page
+- Galaxy fold gallery page
 
 ![Galaxy fold gallery](/docs/testing/Responsivness/gallery-galaxy-fold.png)
 
@@ -149,7 +135,7 @@ In addition to all of the above, on larger screens there are the following featu
 
 ![iPad mini gallery](/docs/testing/Responsivness/gallery-ipad-mini.png)
 
--Galaxy fold contact page
+- Galaxy fold contact page
 
 ![Galaxy fold contact](/docs/testing/Responsivness/contact-page-galaxy-fold.png)
 
@@ -174,4 +160,3 @@ In addition to all of the above, on larger screens there are the following featu
 |Renders as expected|Good|Good|Good|Good|Good|
 
 Back to [README.md](README.md)
-
