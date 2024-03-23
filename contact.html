@@ -53,7 +53,7 @@
         <main>
           <!-- Contact form -->
           <section id="contact">
-            <form action="confirmation-page.html" id="contact-form" method="get">
+            <form action="mailto:info@geochronconsulting.com" id="contact-form" method="post" enctype="text/plain">
               <h2>Request Contact</h2>
               <label for="f-name">First Name</label>
               <input type="text" name="f-name" id="f-name" placeholder="First Name" required>
@@ -95,6 +95,7 @@
                   <span class="checkmark"></span>
                 </label>
               </div>
+              <input type="hidden" name="redirect" value="confirmation-page.html">
               <button type="submit" class="send">Send Request</button>
             </form>
       </section>
