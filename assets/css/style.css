@@ -345,6 +345,10 @@ main {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
+
+.contact-text>h2 {
+    color:#ffffff
+}
 #contact {
     background: url("../images/hillshade.webp") no-repeat center/cover;
     background-position: 50%;
